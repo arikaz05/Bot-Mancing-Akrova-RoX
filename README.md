@@ -1,6 +1,6 @@
 Bot Mancing RoX With Py 3
 
->>> Depedencies <<<
+=== Depedencies ===
 PyAutoGui           [ pip install PyAutoGui ]
 OpenCV              [ pip install opencv-python ]
 PILLOW              [ pip install PILLOW ]
